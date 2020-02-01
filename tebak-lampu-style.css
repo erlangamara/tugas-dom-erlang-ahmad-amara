@@ -1,0 +1,67 @@
+.judul{
+    width: 100%;
+}
+
+.judul h1{
+    margin: auto;
+    width: 138px;
+    height: 100px;
+    font-family: Arial;
+}
+
+.judul h3{
+    font-size: 15px;
+    margin-bottom: 25px;
+    position: relative;
+    left: 288px;
+}
+
+.penentu{
+    width: 220px;
+    height: 200px;
+    margin-bottom: 70px;
+}
+
+.menang{
+    width: 232px;
+    margin: auto;
+}
+
+.lampu{
+    margin-bottom: 70px;
+}
+
+.lampu img{
+    width: 14%;
+    height: 15%;
+    cursor: pointer;
+}
+
+.mulai{
+    width: 145px;
+    margin: auto;
+}
+
+.periksa{
+    height: 115px;
+    position: relative;
+    bottom: 128px;
+    left: 110px;
+    cursor: pointer;
+}
+
+.jalan{
+    height: 135px;
+    position: relative;
+    right: 100px;
+    cursor: pointer;
+}
+
+.ulang{
+    height: 85px;
+    width: 90px;
+    position: relative;
+    right: -33px;
+    bottom: 77px;
+    cursor: pointer;
+}
